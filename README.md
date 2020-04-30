@@ -3,7 +3,7 @@
 # Products JSON API
 mongodb, mongoose, express
 
-## Let's deploy this stuff to the "cloud" aka MongoDB Atlas and Heroku
+## Let's deploy this API to the "cloud" aka MongoDB Atlas and Heroku
 
 ![](https://miro.medium.com/max/1320/1*owg5RPtazedwH8fxpZF_vg.png)
 > Image from [heroku.com](https://www.heroku.com)
